@@ -25,4 +25,8 @@ Les personnalités couvertent seront :
 * Le code doit être sur GitHub est être déployé sur le web avec GitHub Pages.
 * La page doit pouvoir s’adapter aux petits écrans (smartphone).
 
+## Maquette
+
 ![PHOTO-2025-10-27-20-42-08](./imgmaquette/PHOTO-2025-10-27-20-42-08.jpg)
+
+![PHOTO-2025-10-27-20-42-08 3](./imgmaquette/PHOTO-2025-10-27-20-42-08 3.jpg)
