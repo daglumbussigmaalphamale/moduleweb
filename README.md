@@ -27,4 +27,4 @@ Les personnalités couvertent seront :
 
 ![PHOTO-2025-10-27-20-42-08](./imgmaquette/PHOTO-2025-10-27-20-42-08.jpg)
 
-![PHOTO-2025-10-27-20-42-08 3](./imgmaquette/PHOTO-2025-10-27-20-42-083.jpg)
+![PHOTO-2025-10-27-20-42-083](./imgmaquette/PHOTO-2025-10-27-20-42-083.jpg)
