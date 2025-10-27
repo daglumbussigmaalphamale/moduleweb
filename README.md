@@ -2,11 +2,10 @@
 ## thème choisis
 every crimes and questionnable things commited by the trump administration
 ## cahier des charges
-  Le site web sera structuré avec 1 première page où l'utilisateur pourra selectioner les différents ciminels de l'administration américaine.
-chaque autre pages étants dédiées à chaque personnages.
-  Une liste des crimes sera affichés avec une deuxième partie pour les méfaits. 
-  Une version comique de la personne concernée sera présentée avec une citation, si possible en rapport avec le crime.Chaque crimes sera sourcé.
+Le site web sera structuré avec 1 première page où l'utilisateur pourra selectioner les différents ciminels de l'administration américaine.
+chaque autre pages étants dédiées à chaque personnages. Une liste des crimes sera affichés avec une deuxième partie pour les méfaits. Une version comique de la personne concernée sera présentée avec une citation, si possible en rapport avec le crime.Chaque crimes sera sourcé.
 
+Les personnalités couvertent seront : 
 ## Le cahier des charge comprend des éléments imposés :
 
 * Le site web doit contenir au minimum quatre pages dans quatre fichiers HTML différents, dont une page d’accueil.
