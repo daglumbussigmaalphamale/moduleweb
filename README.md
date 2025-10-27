@@ -24,3 +24,5 @@ Les personnalités couvertent seront :
 * Il doit y avoir une animation réalisée avec canvas. (Exemples)
 * Le code doit être sur GitHub est être déployé sur le web avec GitHub Pages.
 * La page doit pouvoir s’adapter aux petits écrans (smartphone).
+
+![PHOTO-2025-10-27-20-42-08](./imgmaquette/PHOTO-2025-10-27-20-42-08.jpg)
