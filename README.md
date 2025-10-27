@@ -26,3 +26,5 @@ Les personnalités couvertent seront :
 * La page doit pouvoir s’adapter aux petits écrans (smartphone).
 
 ![PHOTO-2025-10-27-20-42-08](./imgmaquette/PHOTO-2025-10-27-20-42-08.jpg)
+
+![PHOTO-2025-10-27-20-42-08 3](./imgmaquette/PHOTO-2025-10-27-20-42-08 3.jpg)
