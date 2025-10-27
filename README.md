@@ -1,6 +1,6 @@
 # modulemeb
 ## thème choisis
-every crimes commited by the trump administration
+every crimes and questionnable things commited by the trump administration
 ## cahier des charges
 Le site web sera structuré avec 1 première page où l'utilisateur pourra selectioner les différents ciminels de l'administration américaine.
 chaque autre pages étants dédiées à chaque personnages.
