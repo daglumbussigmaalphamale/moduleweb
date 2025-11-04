@@ -1,20 +1,32 @@
+
 body{
     background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
 }
+/*couleur du titre 1*/
 h1 {
     color:chocolate
 }
+/*background et couleurs des titres*/
 h2,h3 {color:rgb(99, 232, 188);
     background-color: black;
 
 }
+/*couleur du text*/
 p{color: rgb(255, 200, 25)}
-
+/*premier text*/
 #bienvenue {
     border: 1px dashed rgb(255, 200, 25);
     background-color: aqua;
 }
+/*encadrer*/
 .important {border: 2px solid blue;
 
 }
+/* strong est modifié seulement dans important*/
+.important > strong {
+    text-decoration: underline wavy;
+    color: aqua;
+    font-style: italic;
+}
+
