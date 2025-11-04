@@ -1,1 +1,20 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color:chocolate
+}
+h2,h3 {color:rgb(99, 232, 188);
+    background-color: black;
 
+}
+p{color: rgb(255, 200, 25)}
+
+#bienvenue {
+    border: 1px dashed rgb(255, 200, 25);
+    background-color: aqua;
+}
+.important {border: 2px solid blue;
+
+}
