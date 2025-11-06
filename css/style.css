@@ -1,6 +1,6 @@
 
 body{
-    background-color: aquamarine;
+    background-image: url(/media/materialdictionary178_123.jpg);
     font-family: 'Times New Roman', Times, serif;
 }
 /*couleur du titre 1*/
@@ -13,7 +13,7 @@ h2,h3 {color:rgb(99, 232, 188);
 
 }
 /*couleur du text*/
-p{color: rgb(255, 200, 25)}
+p{color:#7C3EFF}
 /*premier text*/
 #bienvenue {
     border: 1px dashed rgb(255, 200, 25);
@@ -29,4 +29,4 @@ p{color: rgb(255, 200, 25)}
     color: aqua;
     font-style: italic;
 }
-
+  h2 { text-align: right}
