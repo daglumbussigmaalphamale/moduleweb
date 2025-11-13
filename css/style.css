@@ -9,7 +9,7 @@ h1 {
 }
 /*background et couleurs des titres*/
 h2,h3 {color:rgb(99, 232, 188);
-    background-color: black;
+    background-color:cyan;
 
 }
 /*couleur du text*/
@@ -29,4 +29,23 @@ p{color:#7C3EFF}
     color: aqua;
     font-style: italic;
 }
-  h2 { text-align: right}
+h2 { text-align: right}
+
+
+ 
+h1 { text-align:center}
+#id1 {
+    border: solid white 
+}
+.important > strong{
+    text-decoration: underline slateblue;
+}
+.lolgamer{
+    background-color: aqua;
+}
+.toomuchaura{
+    background-color: aliceblue;
+}
+.cantswim{
+    background-color: blueviolet;
+}

@@ -24,4 +24,6 @@ function ajouter_perso() {
     var nouveau_text = document.createTextNode(text_perso);
 
     console.log('perso');
+    var ehgros_the_god_of_destruction
+    
 }
