@@ -1,1 +1,10 @@
+body{
+        background-image: url(/media/page2/representation-american-flag-us-national-loyalty-day-celebration.jpg);
+        background-size: 2500px 2000px;
+        background-attachment: fixed;
+        background-position: center;
 
+}
+h1{
+    color:gold
+}
