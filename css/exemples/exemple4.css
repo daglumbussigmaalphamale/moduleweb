@@ -1,0 +1,45 @@
+body {
+    /* border: solid 1px yellowgreen; */
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+h1, h2, p, div {
+    /* border: solid 1px aqua; */
+}
+#navigation {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#navigation ul {
+    /* border: solid 1px black; */
+    width: fit-content;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blueviolet;
+}
+
+#navigation li {
+    display: inline;
+    /* border: solid 1px darkgoldenrod; */
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img.img-centre {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-float {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
