@@ -1,8 +1,20 @@
 body{
         background-image: url(/media/page1/eaglebackg.jpg);
-        background-size: 100px 100px;
+        background-size: 1000px 1000px;
 }
 
 /*couleur du text*/
 p{color:aqua}
 /*premier text*/
+#characterselect{
+        border: solid 1px aqua;
+}
+body {
+    border: solid 1px yellowgreen; 
+    max-width:800px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}

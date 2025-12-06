@@ -1,5 +1,5 @@
 body {
-    /* border: solid 1px yellowgreen; */
+    border: solid 1px yellowgreen; 
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
@@ -9,14 +9,14 @@ body {
 
 
 h1, h2, p, div {
-    /* border: solid 1px aqua; */
+     border: solid 1px aqua; 
 }
 #navigation {
     padding-top: 5px;
     padding-bottom: 5px;
 }
 #navigation ul {
-    /* border: solid 1px black; */
+     border: solid 1px black; 
     width: fit-content;
     padding-left: 0px;
     margin-left: auto;
