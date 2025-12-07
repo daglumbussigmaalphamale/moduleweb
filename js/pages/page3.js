@@ -19,10 +19,10 @@ function add_txt() {
 quoteBtn.addEventListener("click", add_txt); //click active la fonction de random quote
 //toutes images même chose que txt
 const images = [
-  "/media/page1/vancecutout.png",  
-  "/media/page3/vance1.png",
-  "/media/page3/vance2.png",
-  "/media/page3/vance3.png"
+  "media/page1/vancecutout.png",  
+  "media/page3/vance1.png",
+  "media/page3/vance2.png",
+  "media/page3/vance3.png"
 ];
 const imgElement = document.getElementById("vance-img");
 const imgBtn = document.getElementById("img-btn");
