@@ -32,16 +32,7 @@ p{color:white}
 
     
 }
-#preview-text {
-    text-align: center;
-    color: crimson;
-    font-weight: bold;
-    margin-top: 15px;
-    margin-bottom: 10px;
 
-    /* pour garder la même hauteur même si le texte change */
-    min-height: 40px;
-}
 
 body {
     /*border: solid 1px yellowgreen; */

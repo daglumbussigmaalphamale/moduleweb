@@ -9,7 +9,7 @@ body {
 
 
 h1, h2, p, div {
-     border: solid 1px wheat; 
+     border: solid 1px aqua; 
 }
 #navigation {
     padding-top: 5px;
