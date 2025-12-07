@@ -1,8 +1,9 @@
 // Toutes citations
 const quotes = [
-  "I have the best words.",
-  "Nobody knows the system better than me.",
-  "I’m very highly educated. I know words, I have the best words.",
+  "Mr. Trump is unfit for our nation's highest office",
+  "Donald Trump is frankly dangerous.",
+  "I don't really care what happens to Ukraine one way or another.",
+  "President Trump has done more than anyone in my lifetime to earn the trust of the movement he leads. I am proud to stand beside him.",
   
 ];
 

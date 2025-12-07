@@ -1,9 +1,10 @@
 // Toutes citations
 const quotes = [
-  "I have the best words.",
-  "Nobody knows the system better than me.",
-  "I’m very highly educated. I know words, I have the best words.",
-  
+  "If women can make it, excellent. If not, it is what it is",
+  "No more climate-change worship, no more division, distraction or gender delusions, no more debris.[...] we are done with that shit",
+  "I realized that perhaps my planetary purpose was to proactively, politically, and then militarily destroy Islamist radicals",
+  "Islam itself is not compatible with Western forms of government.",
+  "Feeding a well-oiled killing machine, now that’s my jam."
 ];
 
 const quoteElement = document.getElementById("quote");//cherche l'élement
