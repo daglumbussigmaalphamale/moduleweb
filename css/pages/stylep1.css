@@ -7,7 +7,7 @@ body{
 p{color:white}
 /*premier text*/
 #characterselect {
-    display: flex;
+    display: flex;/*s'adapte*/
     gap: 20px;
     justify-content: center;
     margin-top: 20px;
@@ -16,19 +16,30 @@ p{color:white}
 
 .small {
     width: 100px;
-    cursor: pointer;
-    border: 2px solid aqua;
+    cursor: pointer;/*modifie le curseur quand il est sur image*/
+    border: 10px solid crimson;
+
+}
+#preview-text {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+    /* pour garder la même hauteur même si le texte change */
+    min-height: 40px;
 }
 
 #preview {
        /* cachée par défaut */
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     display: block;
     margin: 20px auto;
    /* border: 2px solid yellowgreen;*/
-    object-fit: contain;  /* Important : garde les proportions de l'image */
-    visibility: hidden;   /* L’image est invisible, mais l’espace reste */
+    object-fit: contain;  /* img recadrée */
+    visibility: hidden;   /* rien d'affiché et le cadre reste */
 
     
 }

@@ -1,3 +1,107 @@
-body{
-        background-image: url(/media/page3/Capture\ d’écran\ 2025-11-20\ à\ 15.19.44.png);
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url(/media/page2/representation-american-flag-us-national-loyalty-day-celebration.jpg);
+    background-size: 2500px 2000px;     
+    background-attachment: fixed;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;                    /* empêche la page de scroller */
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    margin: 10px 0;
+}
+
+/* Conteneur principal (gauche + droite) */
+.main {
+    flex: 1;
+    display: flex;
+    gap: 40px;/*entre div*/
+    padding: 20px;/*marge*/
+    box-sizing: border-box;
+}
+
+/* Colonne gauche */
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;  /* image et bulle à gauche */
+    gap: 10px;
+}
+
+/* Bouton */
+#quote-btn {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+#img-btn{
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+/* Bulle de texte */
+#quote-bubble {
+    position: relative;
+    max-width: 320px; /*l*/
+    padding: 10px 15px; /*marge*/
+    background-color: white;
+    border-radius: 16px;
+    border: 2px solid #000;
+}
+/* Triangle*/
+#quote-bubble::after {
+    content: "";
+    position: absolute;
+    bottom: -40px;                   /* position y */
+    left: 40px;                      /* position x */
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;/*taille gauche*/
+    border-right: 20px solid transparent;/*taille droite*/
+    border-top: 40px solid white;  /* L */
+}
+
+/* Colonne droite */
+.right {
+    flex: 1;
+    height: calc(100vh - 100px); /* la hauteur totale de l'écran - hauteur du h1 */
+    overflow: hidden;            /* empêche la zone de dépasser */
+
+}
+
+/* Zone de texte scrollable */
+.scroll-text {
+    height: 100%; /*L*/
+    background-color: rgba(0, 0, 0, 0.55);
+    color: white;
+    padding: 10px; /*marge coté*/
+    box-sizing: border-box;
+    overflow-y: auto;   /* c’est cette div qui a la barre de scroll */ /*en l'occurence la barre de scroll*/
+}
+
+
+
+/*pour retourner page d'acceuil*/
+#back-link {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+#back-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
