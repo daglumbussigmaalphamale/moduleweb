@@ -4,17 +4,54 @@ body{
 }
 
 /*couleur du text*/
-p{color:aqua}
+p{color:white}
 /*premier text*/
-#characterselect{
-        border: solid 1px aqua;
+#characterselect {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
 }
+
+
+.small {
+    width: 100px;
+    cursor: pointer;
+    border: 2px solid aqua;
+}
+
+#preview {
+       /* cachée par défaut */
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin: 20px auto;
+   /* border: 2px solid yellowgreen;*/
+    object-fit: contain;  /* Important : garde les proportions de l'image */
+    visibility: hidden;   /* L’image est invisible, mais l’espace reste */
+
+    
+}
+#preview-text {
+    text-align: center;
+    color: crimson;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+    /* pour garder la même hauteur même si le texte change */
+    min-height: 40px;
+}
+
 body {
-    border: solid 1px yellowgreen; 
+    /*border: solid 1px yellowgreen; */
     max-width:800px;
     
     margin-left: auto;
     margin-right: auto;
     padding-left: 5px;
     padding-right: 5px;
+}
+h1{
+    text-align: center;
 }
